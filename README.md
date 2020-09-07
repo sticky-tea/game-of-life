@@ -8,7 +8,7 @@ Classical cellular automaton "Game of life" writen in C++ with SDL2.
 ```
 
 ## How to use
-Left button - put/remove cell
-Space - start/stop
-Plus - speed up
+Left button - put/remove cell  
+Space - start/stop  
+Plus - speed up  
 Minus - slow down
