@@ -1,6 +1,9 @@
 # Game of Life
 
-Classical cellular automaton "Game of life" writen in C++ with SDL2.
+Classical cellular automaton "Game of life" written in C++ with SDL2.
+
+## Dependencies
+* [SDL2](https://www.libsdl.org/)
 
 ## Compilation
 ```bash
