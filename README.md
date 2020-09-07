@@ -7,7 +7,7 @@ Classical cellular automaton "Game of life" written in C++ with SDL2.
 
 ## Compilation
 ```bash
-	$ make && ./gamelife
+$ make && ./gamelife
 ```
 
 ## How to use
